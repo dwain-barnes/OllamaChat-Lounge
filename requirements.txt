@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+nest-asyncio>=1.5.8
+requests>=2.31.0
+swarm-ai>=0.1.0
+python-dotenv>=1.0.0
+logging>=0.5.1.2
+datetime>=5.4
+asyncio>=3.4.3
