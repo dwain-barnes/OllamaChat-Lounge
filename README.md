@@ -39,7 +39,7 @@ An interactive platform that combines OpenAI's Swarm framework with Ollama to or
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ollamachat-arena.git
+git clone https://github.com/dwain-barnes/ollamachat-lounge.git
 cd ollamachat-arena
 ```
 
@@ -96,7 +96,7 @@ Bob:
 ## Available Models 🧠
 
 Compatible with various Ollama models including:
-- Llama2 (various sizes)
+- Llama3 (various sizes)
 - Mistral
 - CodeLlama
 - Neural-Chat
