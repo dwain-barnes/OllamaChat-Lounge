@@ -2,7 +2,7 @@
 
 An interactive platform that combines OpenAI's Swarm framework with Ollama to orchestrate dynamic conversations between AI agents. Watch as two AI personalities engage in natural discussions using local language models!
 
-![OllamaChat Arena Setup](setup-screen.png)
+![OllamaChat Lounge Setup](main.png)
 
 ## Features ✨
 
@@ -66,7 +66,7 @@ streamlit run main.py
 - Mix and match models of different sizes
 
 ### 2. Configure Conversation
-![Conversation Setup](conversation-setup.png)
+![Conversation Setup](setup-screen.png)
 - Set a conversation topic (e.g., "The Value of Movies in Society")
 - Define unique personalities for each agent:
   - Alice: "Movie expert, enthusiastic and well-informed"
