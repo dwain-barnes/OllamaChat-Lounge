@@ -29,7 +29,7 @@ An interactive platform that combines OpenAI's Swarm framework with Ollama to or
 
 ## Prerequisites 🔧
 
-- Python 3.8+
+- Python 3.10+
 - Ollama installed and running locally
 - OpenAI Swarm
 - Streamlit
